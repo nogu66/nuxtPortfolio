@@ -1,5 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
+  target: "static", // この行を追加
+
   head: {
     title: `Yuta Noguchi Portfolio`,
     htmlAttrs: {
